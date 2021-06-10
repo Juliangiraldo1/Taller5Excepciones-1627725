@@ -1,0 +1,4 @@
+Julian Arango;Actor
+Camilo Za�iga;Futbolista
+Juanes;Cantante
+shakira;Cantante
